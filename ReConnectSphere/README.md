@@ -1,7 +1,8 @@
 
 # ReConnectSphere
 
-Independent CREST Gold Project  
+Independent CREST Gold Project 
+**Live Website:** [Visit ReConnectSphere](https://reconnectsphere.com)
 September 2025 – Present
 
 ## Overview
