@@ -11,7 +11,7 @@ I was part of Team Ultraviolet, an all-girls FIRST Tech Challenge team. We desig
 
 ## My contribution
 
-The team engineering portfolio lists me as an engineer and names me as one of the section leads, alongside Aanya, for the dual launcher. The section documents the team's design and development work, including early CAD concepts, prototyping and redesign.
+The team engineering portfolio lists me as an engineer and names me as one of the section leads, alongside a fellow team member, for the dual launcher. The section documents the team's design and development work, including early CAD concepts, prototyping and redesign.
 
 ## Dual launcher: design process
 
