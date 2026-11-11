@@ -63,7 +63,7 @@ Contributed to the development of a competition robot as part of an all-female r
 - Refined designs to improve fit and reliability.
 - Contributed to documenting engineering decisions and development.
 
-See the [`ftc_github_upload`](ftc_github_upload/) folder for supporting project material.
+Explore the [FTC Robotics Project, including engineering documentation and visual evidence](ftc_github_upload/README.md).
 
 ## Technical Skills
 
