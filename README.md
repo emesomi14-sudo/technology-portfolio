@@ -28,6 +28,7 @@ I am developing the project through a user-centred approach, using research to i
 - [Design Decisions](ReConnectSphere/Design-Decisions.md)
 - [Testing and Evaluation](ReConnectSphere/Testing-and-Evaluation.md)
 - [Project Overview and Screenshots](ReConnectSphere/README.md)
+- [Technical Overview](ReConnectSphere/Technical-Overview.md)
 
 ## Technology Experience: EY Smart Futures
 
