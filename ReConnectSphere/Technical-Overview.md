@@ -6,7 +6,6 @@
 |---|---|
 | WordPress | Website development and content management |
 | Figma | Interface design and layout planning |
-| HTML and CSS | Only include if directly used in the website implementation |
 
 ## Website Structure
 
@@ -40,4 +39,9 @@ Development priorities included:
 
 ## Future Technical Development
 
-Potential improvements include more extensive accessibility testing, responsive design evaluation and structured user testing.
+Potential improvements include:
+
+- More extensive accessibility testing.
+- Responsive design evaluation across different devices.
+- Structured user testing and feedback.
+- Further refinement of navigation and content.
